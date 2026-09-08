@@ -1,4 +1,3 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdjOTl0a2gwbmdxa3Z3N2owY2dzc2YxaW02NnN5czVhY2t3NDI2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpKXgonQQYiw7hC/giphy.gif" alt="Computer man" style="width:500px;height:300px;">
 
 # IPTV Brasil 2026 - Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
